@@ -46,3 +46,4 @@ def date_diff(date1, date2):
 # Test cases
 print(f"Day of year for 29-02-2024: {day_of_year(29, 2, 2024)}") # Output: 60
 print(f"Total days between 25-12-1999 and 09-03-2000: {date_diff('25-12-1999', '9-3-2000')}") # Output: 76
+print(f"Damn") # Output: 60
